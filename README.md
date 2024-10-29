@@ -1,2 +1,2 @@
 # Tailwind_project
- This a complete website which develop with Tailwind CSS with Laravel Framework
+ This a complete website which develope with Tailwind CSS in Laravel Framework
